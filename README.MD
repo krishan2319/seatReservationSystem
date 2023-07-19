@@ -1,10 +1,10 @@
 # Seat Reservation System
 
-The Seat Reservation System is a web application developed using Node.js, Express, MongoDB for the backend, and React for the frontend.
+The Seat Reservation System is a web application developed using Node.js, Express, MongoDB for the backend, and React for the front end.
 
 ### Deployed Link 🚀
 
-The application is deployed and can be accessed at: [https://seatReservationSystem.netlify.app/](https://unstop-train-reservation.netlify.app/)
+The application is deployed and can be accessed at: [https://seat-reservation-system.vercel.app/](https://seat-reservation-system.vercel.app/)
 
 ---
 
